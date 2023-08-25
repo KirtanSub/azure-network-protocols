@@ -11,8 +11,8 @@ In this tutorial, we will observe various network traffic to and from Azure Virt
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
+- Command-Line Tools and Prompts
+- Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
 - Wireshark (Protocol Analyzer)
 
 <h2>Operating Systems Used </h2>
@@ -27,7 +27,7 @@ In this tutorial, we will observe various network traffic to and from Azure Virt
 <p>
 </p>
 <p>
-Welcome to my tutorial on observing Network traffic using Azure virtual machines and Network Protocols. In order to get this started you will need to create two Virtual Machines on Microsoft Azure. 
+Welcome to my tutorial on observing Network traffic using Azure virtual machines and Network Protocols. In order to get this started you will need to create two Virtual Machines on Microsoft Azure. We need to create two virtual machines. One will have a Windows OS and the other will have Ubuntu Linux. Do make sure that both Virtual Machines are connected to the same Network.  
 </p>
 <br />
 
